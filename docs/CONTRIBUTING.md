@@ -1,6 +1,6 @@
 # Contributing
 
-Having trouble working with the theme? Found a typo in the documentation? Interested in adding a feature or [fixing a bug](https://github.com/AREA44/only-One/issues)? Then by all means [submit an issue](https://github.com/AREA44/only-One/issues/new) or [pull request](https://help.github.com/articles/using-pull-requests/). If this is your first pull request, it may be helpful to read up on the [GitHub Flow](https://guides.github.com/introduction/flow/) first.
+Having trouble working with the theme? Found a typo in the documentation? Interested in adding a feature or [fixing a bug](https://github.com/AREA44/jekyll-ex/issues)? Then by all means [submit an issue](https://github.com/AREA44/jekyll-ex/issues/new) or [pull request](https://help.github.com/articles/using-pull-requests/). If this is your first pull request, it may be helpful to read up on the [GitHub Flow](https://guides.github.com/introduction/flow/) first.
 
 
 ### Pull Requests
