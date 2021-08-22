@@ -1,6 +1,6 @@
-# Ex Jekyll theme
+# Jekyll Ex
 
-`Ex` is a Jekyll theme for GitHub Pages.
+Build a site with [Jekyll](https://jekyllrb.com).
 
 ## Features
 
